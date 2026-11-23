@@ -1,0 +1,1 @@
+ALTER TABLE "group_products" ADD COLUMN "option_value" text DEFAULT '';

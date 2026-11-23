@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1779167544407,
+      "tag": "0000_third_marvel_apes",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1779181914724,
+      "tag": "0001_lowly_susan_delgado",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1779259439653,
+      "tag": "0002_easy_chat",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1780394966505,
+      "tag": "0003_salty_tarot",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1780743099459,
+      "tag": "0004_keen_slapstick",
+      "breakpoints": true
+    }
+  ]
+}

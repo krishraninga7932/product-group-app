@@ -1,0 +1,1 @@
+ALTER TABLE "product_groups" ADD COLUMN "status" text DEFAULT 'active' NOT NULL;
