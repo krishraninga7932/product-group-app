@@ -1,0 +1,10 @@
+name="React Router"
+roles = ["frontend", "backend"]
+webhooks_path = "/webhooks/app/uninstalled"
+oauth_url = "/auth/initial"
+
+[commands]
+dev = "npm run dev"
+
+[server]
+tunnel_url="http://localhost:5173"
